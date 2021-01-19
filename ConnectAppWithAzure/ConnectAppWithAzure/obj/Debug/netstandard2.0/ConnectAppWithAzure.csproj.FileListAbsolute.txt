@@ -1,0 +1,14 @@
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\bin\Debug\netstandard2.0\ConnectAppWithAzure.deps.json
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\bin\Debug\netstandard2.0\ConnectAppWithAzure.dll
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\bin\Debug\netstandard2.0\ref\ConnectAppWithAzure.dll
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\bin\Debug\netstandard2.0\ConnectAppWithAzure.pdb
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.AssemblyInfo.cs
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.dll
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ref\ConnectAppWithAzure.dll
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.pdb
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\ConnectAppWithAzure.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\ConnectAppWithAzure\ConnectAppWithAzure\ConnectAppWithAzure\obj\Debug\netstandard2.0\XamlC.stamp

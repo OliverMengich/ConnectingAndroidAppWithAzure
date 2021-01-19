@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QnG/xJJOtrc4lm7xmPSESxbtFKbNMrRjglG5dMjlZwE7950Zy/r6IrzsG89dLofeiu5lHbpKCw8YGqsoN6AgfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\source\\repos\\ConnectAppWithAzure\\ConnectAppWithAzure\\ConnectAppWithAzure.iOS\\ConnectAppWithAzure.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\exiflib.pcl\\1.0.1\\exiflib.pcl.1.0.1.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\plugin.toast\\2.2.0\\plugin.toast.2.2.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.data.common\\4.3.0\\system.data.common.4.3.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\toasts.forms.plugin\\3.3.2\\toasts.forms.plugin.3.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\xlabs.core\\2.0.5782\\xlabs.core.2.0.5782.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\xlabs.forms\\2.0.5782\\xlabs.forms.2.0.5782.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\xlabs.ioc\\2.0.5782\\xlabs.ioc.2.0.5782.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\xlabs.platform\\2.0.5782\\xlabs.platform.2.0.5782.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\xlabs.serialization\\2.0.5782\\xlabs.serialization.2.0.5782.nupkg.sha512"
+  ],
+  "logs": []
+}

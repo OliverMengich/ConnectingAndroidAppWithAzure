@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConnectAppWithAzure.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="10" CornerRadius="0">
+            <Label Text="Welcome to Smart Contractors" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="30"/>
+        </Frame>
+        <Label Text="Enter your details to join" 
+               FontSize="Title"
+               Padding="30,10,30,10"/>
+        <Label Text="First Name" FontSize="16" Padding="10,0,0,0"/>
+        <Entry x:Name="firstNameEntry" 
+               Placeholder="Enter first name"/>
+        
+        <Label Text="Second Name" FontSize="16" Padding="10,0,0,0"/>
+        <Entry x:Name="lastNameEntry"  Placeholder="Enter second name"/>
+        
+        <Label Text="Email" FontSize="16" Padding="10,0,0,0"/>
+        <Entry Placeholder="email" 
+               x:Name="emailEntry"  />
+
+        <Label Text="Password" FontSize="16" Padding="10,0,0,0"/>
+        <Entry Placeholder="password" 
+               x:Name="passwordEntry"  
+               IsPassword="True" />
+        
+        <Label Text="Phone Number" FontSize="16" Padding="10,0,0,0"/>
+        <Entry Placeholder="phone number" x:Name="phoneNumberEntry" />
+        <Button Text="Join" Clicked="Button_Clicked" />
+    </StackLayout>
+
+</ContentPage>
